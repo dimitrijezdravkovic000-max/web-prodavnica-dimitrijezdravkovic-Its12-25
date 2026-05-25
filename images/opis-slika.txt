@@ -1,0 +1,10 @@
+Ovde ce se nalaziti slike proizvoda, logo i promotivni materijali.
+
+Slike su generisane pomocu Gemini AI alata.
+
+Kategorije slika:
+- obuca: 5 slika
+- odeca: 5 slika
+- aksesoari: 5 slika
+
+Logo: Obsidian luxury fashion store
