@@ -1,0 +1,18 @@
+Kategorije: odeca, obuca, aksesoari
+
+Proizvodi:
+1. White Leather Stiletto Heels (kategorija obuca)
+2. Beige Suede Ankle Boots (kategorija obuca)
+3. Silver Strappy Heeled Sandals (kategorija obuca)
+4. White Leather Loafers (kategorija obuca)
+5. Cream Platform Mules (kategorija obuca)
+6. White Satin Evening Gown (kategorija odeca)
+7. Beige Oversized Coat (kategorija odeca)
+8. White Blazer and Trousers Set (kategorija odeca)
+9. White Silk Midi Dress (kategorija odeca)
+10. Grey Knit Sweater Dress (kategorija odeca)
+11. Silver Chain Handbag (kategorija aksesoari)
+12. Beige Quilted Clutch (kategorija aksesoari)
+13. Diamond Necklace and Earring Set (kategorija aksesoari)
+14. Silver Silk Scarf (kategorija aksesoari)
+15. White Acetate Sunglasses (kategorija aksesoari)
